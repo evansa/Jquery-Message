@@ -1,5 +1,6 @@
-/*
-	Version 0.1
+/*	
+	@Written by: Evans Anyokwu
+	@Version 0.1
 	 
 */
 
